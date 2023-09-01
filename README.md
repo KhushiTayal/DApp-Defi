@@ -8,16 +8,12 @@ This project is a fusion of [Create React App](https://github.com/facebook/creat
 - Connect Wallet with MetaMask
 
 ### Dashboard
-- Add dashboard features here
 
 ### Lend Funds
-- Describe the lending functionality
 
 ### Borrow Funds
-- Explain how users can borrow funds
 
 ### Repayment
-- Describe the repayment process
 
 ## Technology Stack
 
@@ -30,7 +26,6 @@ This project utilizes a diverse technology stack:
 - **Hardhat:** Providing a robust development environment for Ethereum smart contracts.
 - **Solidity:** The primary language for crafting smart contracts.
 - **ChainLink:** Enabling decentralized oracles.
-- **IPFS:** Enabling decentralized storage.
 
 ## How to Use
 
