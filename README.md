@@ -1,6 +1,6 @@
-# Loan Lending Decentralized App
+# Lending and Borrowing Decentralized App
 
-This project is a fusion of [Create React App](https://github.com/facebook/create-react-app) and [Hardhat](https://hardhat.org/) to create a decentralized lending application.
+This project is a fusion of [Create React App](https://github.com/facebook/create-react-app) and [Hardhat](https://hardhat.org/) to create a decentralized lending and borrowing application.
 
 ## Features
 
