@@ -53,5 +53,3 @@ Deploy the smart contract to the Sepolia Test Network using this command.
 1. Create a `.env` file to securely store your private key and Alchemy API key URL.
 
 2. In the frontend's `index.js` file, remember to include your ABI file and the address of the deployed smart contract.
-
-Feel free to tailor and expand upon this README to provide comprehensive information about your project and its functionality.
